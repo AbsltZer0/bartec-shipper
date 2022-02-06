@@ -1,0 +1,1 @@
+ <button class="bg-red-600 w-20 m-3 rounded-md ">NEXT</button>
